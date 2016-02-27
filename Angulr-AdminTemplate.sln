@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Angulr-AdminTemplate", "http://localhost:38508", "{BBDC22D1-4470-46FF-B4BD-9487E2100A30}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_38508"
+		Debug.AspNetCompiler.PhysicalPath = "Angulr-AdminTemplate\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_38508\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_38508"
+		Release.AspNetCompiler.PhysicalPath = "Angulr-AdminTemplate\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_38508\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Angulr-AdminTemplate\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Angulr-AdminTemplate-2", "http://localhost:42261", "{1CAB7608-20B0-4EA2-8F63-81CD22341A25}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_42261"
+		Debug.AspNetCompiler.PhysicalPath = "Angulr-AdminTemplate-2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42261\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_42261"
+		Release.AspNetCompiler.PhysicalPath = "Angulr-AdminTemplate-2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42261\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Angulr-AdminTemplate-2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDC22D1-4470-46FF-B4BD-9487E2100A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDC22D1-4470-46FF-B4BD-9487E2100A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAB7608-20B0-4EA2-8F63-81CD22341A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAB7608-20B0-4EA2-8F63-81CD22341A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
